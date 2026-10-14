@@ -1,0 +1,7 @@
+<!-- preserve-color -->
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="30" rx="15" fill="#1170FF" fill-opacity="0.6"/>
+<path d="M15.4504 12.975H19.5004V17.025H15.4504V12.975Z" fill="white"/>
+<path d="M11.4004 6.89999H15.4504V12.975C13.2136 12.975 11.4004 11.1617 11.4004 8.92499V6.89999Z" fill="white"/>
+<path d="M11.4004 23.1H15.4504V17.025C13.2136 17.025 11.4004 18.8382 11.4004 21.075V23.1Z" fill="white"/>
+</svg>
